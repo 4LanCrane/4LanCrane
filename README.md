@@ -4,10 +4,7 @@
 
 <p align="left">
 </p>
-<div align="center">
-  <h2>Page Views</h2>
-  <img src="https://profile-counter.glitch.me/4LanCrane/count.svg?"  />
-</div>
+
 
 <div align="center">
   <h2>Stats</h2>
