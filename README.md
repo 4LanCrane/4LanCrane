@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Third year Computer Science Student</h2>
+<h2 align="center">Third Year Computer Science Student</h2>
 
 ###
 
