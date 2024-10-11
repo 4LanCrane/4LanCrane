@@ -2,14 +2,14 @@
 <h3 align="center">Third Year Computer Science Student</h3>
 
 
-<p align="left">
-</p>
 
 
 <div align="center">
   <h2>Stats</h2>
 </div>
 
+---
+[![](https://visitcount.itsvg.in/api?id=4LanCrane&icon=0&color=8)](https://visitcount.itsvg.in)
 
 ![4LanCrane's Stats](https://github-readme-stats.vercel.app/api?username=4LanCrane&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![4LanCrane's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4LanCrane&theme=dark&show_icons=true&hide_border=false&layout=compact)
