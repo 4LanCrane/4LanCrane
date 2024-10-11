@@ -8,8 +8,9 @@
   <h2>Stats</h2>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=4LanCrane&icon=0&color=8)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/4LanCrane/count.svg?"  />
+
 
 ![4LanCrane's Stats](https://github-readme-stats.vercel.app/api?username=4LanCrane&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![4LanCrane's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4LanCrane&theme=dark&show_icons=true&hide_border=false&layout=compact)
